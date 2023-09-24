@@ -9,7 +9,7 @@ div.innerHTML = `<div class="menu-container">
       <li><a href="http://calistnx.com/">CALISTNX</a></li>
       <li><a href="" target=''>NEWSLETTER</a></li>
       <li><a href="https://beacons.ai/havocmadhan" target="_blank">SOCIAL MEDIA</a></li>
-      <li><a href='#'>WISDOM</a>
+      <li><a href='#'>SOON</a>
       </li>
       <li><a href='#'>RESOURCES</a>
         <ul>
