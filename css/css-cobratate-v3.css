@@ -2326,9 +2326,9 @@ strong {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border: 3px solid #cc334f;
+  border: 3px solid #FFD700;
   border-radius: 0px;
-  background-color: #cc334f;
+  background-color: #FFD700;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   font-family: Spartan, sans-serif;
@@ -2351,9 +2351,9 @@ strong {
   min-width: auto;
   padding-top: 18px;
   padding-bottom: 15px;
-  border: 3px solid #cc334f;
+  border: 3px solid #FFD700;
   border-radius: 0px;
-  background-color: #cc334f;
+  background-color: #FFD700;
   box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, 0.53);
   -webkit-transition-property: all;
   transition-property: all;
@@ -2398,8 +2398,8 @@ strong {
 .button-large.bg-primary-3.margin-top {
   margin-top: 20px;
   margin-left: auto;
-  border-color: #cc334f;
-  background-color: #cc334f;
+  border-color: #FFD700;
+  background-color: #FFD700;
   color: #fff;
 }
 
@@ -2459,7 +2459,7 @@ strong {
 }
 
 .button-large.button-large--alt.margin-top:hover {
-  border-color: #cc334f;
+  border-color: #FFD700;
   color: #fff;
 }
 
@@ -2988,7 +2988,7 @@ strong {
   align-items: center;
   border-style: solid;
   border-width: 3px;
-  border-color: #cc334f;
+  border-color: #FFD700;
   border-radius: 0px;
   background-color: transparent;
   -webkit-transition: all 200ms ease;
@@ -3164,7 +3164,7 @@ strong {
   padding-top: 15px;
   padding-bottom: 11px;
   border-style: none none solid;
-  border-bottom-color: #cc334f;
+  border-bottom-color: #FFD700;
   border-radius: 0px;
   background-color: transparent;
   opacity: 1;
@@ -3534,7 +3534,7 @@ strong {
 }
 
 .div-block-6:hover {
-  border-color: #cc334f;
+  border-color: #FFD700;
 }
 
 .image-2 {
@@ -4201,7 +4201,7 @@ strong {
 .rich-text-block-3 {
   margin-bottom: 92px;
   font-family: Spartan, sans-serif;
-  color: #cc334f;
+  color: #FFD700;
   line-height: 28px;
 }
 
@@ -4294,22 +4294,22 @@ strong {
 
 .link-block-3.jetboost-filter-active {
   border-bottom-style: solid;
-  border-bottom-color: #cc334f;
+  border-bottom-color: #FFD700;
   background-color: transparent;
   opacity: 1;
   color: #000;
 }
 
 .link-block-3.jetboost-filter-active:hover {
-  border-bottom-color: #cc334f;
+  border-bottom-color: #FFD700;
 }
 
 .link-block-3.jetboost-filter-active:focus {
-  border-bottom-color: #cc334f;
+  border-bottom-color: #FFD700;
 }
 
 .link-block-3.jetboost-filter-active:visited {
-  border-bottom-color: #cc334f;
+  border-bottom-color: #FFD700;
 }
 
 .collection-item-3 {
@@ -5895,7 +5895,7 @@ strong {
   max-width: 70ch;
   padding: 80px 60px;
   margin: 0 auto;
-  border: 4px solid #cc334f;
+  border: 4px solid #FFD700;
 }
 
 .center {
@@ -5945,8 +5945,8 @@ strong {
   justify-content: space-between;
   border-style: solid;
   border-width: 3px;
-  border-color: #cc334f;
-  background-color: #cc334f;
+  border-color: #FFD700;
+  background-color: #FFD700;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   font-family: Spartan, sans-serif;
@@ -6049,7 +6049,7 @@ strong {
   right: 0%;
   bottom: 0%;
   float: right;
-  background-color: #cc334f;
+  background-color: #FFD700;
 }
 
 .div-block-30 {
@@ -6631,7 +6631,7 @@ strong {
 }
 
 .text-span {
-  color: #cc334f;
+  color: #FFD700;
 }
 
 .body-8 {
@@ -7131,9 +7131,9 @@ strong {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border: 3px solid #cc334f;
+  border: 3px solid #FFD700;
   border-radius: 0px;
-  background-color: #cc334f;
+  background-color: #FFD700;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   font-family: Spartan, sans-serif;
@@ -7156,9 +7156,9 @@ strong {
   min-width: auto;
   padding-top: 18px;
   padding-bottom: 15px;
-  border: 3px solid #cc334f;
+  border: 3px solid #FFD700;
   border-radius: 0px;
-  background-color: #cc334f;
+  background-color: #FFD700;
   box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, 0.53);
   -webkit-transition-property: all;
   transition-property: all;
@@ -7182,8 +7182,8 @@ strong {
 .button-large-3.bg-primary-3.margin-top {
   margin-top: 20px;
   margin-left: auto;
-  border-color: #cc334f;
-  background-color: #cc334f;
+  border-color: #FFD700;
+  background-color: #FFD700;
   color: #fff;
   font-size: 18px;
   line-height: 18px;
@@ -7270,7 +7270,7 @@ strong {
   margin-left: auto;
   border-style: none none solid;
   border-width: 1px 1px 2px;
-  border-color: #000 #000 #cc334f;
+  border-color: #000 #000 #FFD700;
   color: #dadada;
   font-size: 33px;
   line-height: 41px;
@@ -8302,7 +8302,7 @@ strong {
   margin-left: 20px;
   padding-right: 20px;
   padding-left: 20px;
-  border-bottom: 4px solid #cc334f;
+  border-bottom: 4px solid #FFD700;
   color: #fff;
   font-weight: 400;
   text-align: center;
@@ -8402,11 +8402,11 @@ strong {
 }
 
 .car-item__image-lb:hover {
-  border-color: #cc334f;
+  border-color: #FFD700;
 }
 
 .car-item__image-lb:focus {
-  border-color: #cc334f;
+  border-color: #FFD700;
 }
 
 .car-item__spec-card {
