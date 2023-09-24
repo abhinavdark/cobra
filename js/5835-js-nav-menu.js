@@ -4,6 +4,7 @@ div.innerHTML = `<div class="menu-container">
 <div class="menu">
     <ul>
       <li class='menu-logo desktop'><a href="index.html"><img src="images/logo.png" alt="havocmadhan" /></a></li>
+      <li class='menu-logo mobile'><a href="index.html"><img src="images/logo.png" alt="havocmadhan" /></a></li>
       <li class='mobile'><a href="index.html">HOME</a></li>
       <li><a href="http://calistnx.com/">CALISTNX</a></li>
       <li><a href="" target=''>NEWSLETTER</a></li>
