@@ -1043,7 +1043,7 @@ figcaption {
   max-height: 3rem;
   color: #fff;
   border-width: 2px;
-  border-color: #FFD700;
+  border-color: #D4AF37;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -1360,7 +1360,7 @@ figcaption {
 .ct_button-primary {
   color: #fff;
   text-align: center;
-  background-color: #FFD700;
+  background-color: #D4AF37;
   padding: 1.25rem 2.25rem;
   font-size: .9rem;
   font-weight: 600;
@@ -1614,7 +1614,7 @@ figcaption {
 
 .ct_footer_link:hover {
   color: #fff;
-  border-bottom: 2px solid #FFD700;
+  border-bottom: 2px solid #D4AF37;
 }
 
 .ct_black-overlay {
@@ -2420,7 +2420,7 @@ figcaption {
 
   .ct_button-primary:hover {
     color: #fff;
-    background-color: #FFD700;
+    background-color: #D4AF37;
   }
 
   .ct_button-primary.margin-top-52 {
