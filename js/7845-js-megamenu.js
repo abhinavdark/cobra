@@ -14,7 +14,7 @@ $(document).ready(function () {
 		);
 	} else {
 		$('.menu > ul').before(
-			
+			'<a href="index.html" class="menu-mobile"><img src="images/logo.png" alt="" /></a>'
 		);
 	}
 	//<li class='menu-logo desktop'><a href="index.html"><img src="images/Tate-Logo-Web3.png" alt="Tate logo" /></a></li>
