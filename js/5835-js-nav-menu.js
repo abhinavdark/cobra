@@ -20,7 +20,7 @@ div.innerHTML = `<div class="menu-container">
       
       <li><a href="https://havocmadhan.com/">MY ACCOUNT</a></li>
       <li class='right-btn shop-btn'><a href="#">SOON</a></li>
-      <li class='right-btn shop-btn'><a href="http://havocmadhan.com/">CLICK</a></li>
+      <li class='right-btn shop-btn'><a href="http://havocmadhan.com/">Soon</a></li>
     </ul>
 </div>
 </div>`;
