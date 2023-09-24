@@ -3,34 +3,24 @@ var div = document.createElement("div");
 div.innerHTML = `<div class="menu-container">
 <div class="menu">
     <ul>
-      <li class='menu-logo desktop'><a href="index.html"><img src="images/Tate-Logo-Web3.png" alt="Tate logo" /></a></li>
+      <li class='menu-logo desktop'><a href="index.html"><img src="images/logo.png" alt="havocmadhan" /></a></li>
       <li class='mobile'><a href="index.html">HOME</a></li>
-      <li><a href="jointherealworld.html">THE REAL WORLD</a></li>
-      <li><a href="https://trwchampions.com" target='_blank'>CHAMPIONS</a></li>
-      <li><a href="https://thewarroom.ag/" target="_blank">THE WAR ROOM</a></li>
+      <li><a href="http://calistnx.com/">calistnx</a></li>
+      <li><a href="" target=''>NEWSLETTER</a></li>
+      <li><a href="https://beacons.ai/havocmadhan" target="_blank">SOCIAL MEDIA</a></li>
       <li><a href='#'>WISDOM</a>
-        <ul>
-        <li><a href="the-tales-of-wudan.html">TALES OF WUDAN</a></li>
-        <li><a href="fight.html">LESSONS FROM FIGHTING</a></li>
-        <li><a href="https://cobratate.com/youngkings" target="_blank">YOUNG KINGS</a></li>
-          <li><a href="41-tenets.html">41 TENETS</a></li>
-          <li><a href="letter-from-jail.html">LETTER FROM JAIL</a></li>
-          <li><a href="pledge.html">TATE PLEDGE</a></li>
-        </ul>
       </li>
       <li><a href='#'>RESOURCES</a>
         <ul>
-          <li><a href="contact.html">CONTACT ME</a></li>
-          <li><a href="mission.html">TALK TO AN AGENT</a></li>
-          <li><a href="https://jointherealworld.com/last-week" target='_blank'>LAST WEEK INSIDE THE REAL WORLD</a></li>
-          <li><a href="newsletter.html">NEWSLETTER</a></li>
-          <li><a href="https://beacons.ai/tateterrific" target='_blank'>SOCIAL MEDIA</a></li>
+          <li><a href="http://calistnx.com/" target='_blank'>Soon</a></li>
+          <li><a href="">NEWSLETTER</a></li>
+          <li><a href="https://beacons.ai/havocmadhan" target='_blank'>CONTACT ME</a></li>
         </ul>
       </li>
       
-      <li><a href="https://cobratatemembers.com/">MY ACCOUNT</a></li>
-      <li class='right-btn shop-btn'><a href="shop.html">SHOP</a></li>
-      <li class='right-btn shop-btn'><a href="https://topg.com/">TOP G</a></li>
+      <li><a href="https://havocmadhan.com/">MY ACCOUNT</a></li>
+      <li class='right-btn shop-btn'><a href="#">SOON</a></li>
+      <li class='right-btn shop-btn'><a href="http://havocmadhan.com/">CLICK</a></li>
     </ul>
 </div>
 </div>`;
