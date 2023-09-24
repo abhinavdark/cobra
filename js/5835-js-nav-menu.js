@@ -5,7 +5,7 @@ div.innerHTML = `<div class="menu-container">
     <ul>
       <li class='menu-logo desktop'><a href="index.html"><img src="images/logo.png" alt="havocmadhan" /></a></li>
       <li class='mobile'><a href="index.html">HOME</a></li>
-      <li><a href="http://calistnx.com/">calistnx</a></li>
+      <li><a href="http://calistnx.com/">CALISNTX</a></li>
       <li><a href="" target=''>NEWSLETTER</a></li>
       <li><a href="https://beacons.ai/havocmadhan" target="_blank">SOCIAL MEDIA</a></li>
       <li><a href='#'>WISDOM</a>
